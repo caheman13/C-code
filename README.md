@@ -1,2 +1,2 @@
 # C++ code
-Codde used to solve competition problems
+Code used to solve competition problems
